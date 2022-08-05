@@ -9,5 +9,4 @@
 ### Tools
 
 - Swift
-- SwiftUI
-- Postman
+- UIKit
